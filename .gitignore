@@ -1,3 +1,9 @@
 .idea
+/.idea/*
 Homestead.yaml
 Homestead.json
+gulpfile.js
+package.json
+phpunit.xml
+server.php
+.env.example
